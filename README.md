@@ -11,7 +11,7 @@ From my experience, I am using 2 ways for downloading this tools,
 2. Download via Anaconda Navigator. You can download Anaconda Navigator from this 
 [Anaconda Navigator](https://www.anaconda.com/download/success)
 Here is a view of Anaconda Navigator
-![Anaconda Navigator](images/Download \from \Anaconda \Navigator.png)
+![Anaconda Navigator](images/"Download from Anaconda Navigator.png")
 
 ### How to Start a Project with Orange Data Mining
 1. Launch the Orange Data Mining application.
